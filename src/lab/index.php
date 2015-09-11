@@ -94,7 +94,7 @@ $sub="BIO";
 $cat="lab";
 $exp_name=$_GET["exp_id"];
 }
-$temp_id='vlab_resp';
+$temp_id='vlab';
 ///////////////
 //$sim_id='../POE/Spread_Pest_Population_invasion';
 //$sim_id="../".$cat."/".$exp_name;
