@@ -8,6 +8,6 @@
   -->
  
   <link  href="<?php getSimCss('simstyle.css'); ?>" rel="stylesheet" type="text/css" />
-  <script src="<?php getSimPath(); ?>../../../html5/js/jquery.flot.js" language="javascript"></script>
-  <script src="<?php getSimPath(); ?>../../../html5/js/jquery-ui-1.8.17.custom.min.js" language="javascript">
+  <script src="<?php getSimPath(); ?>../../lib/js/jquery.flot.js" language="javascript"></script>
+  <script src="<?php getSimPath(); ?>../template/vlab_resp/js/jquery-ui-1.8.17.custom.min.js" language="javascript">
   </script>
