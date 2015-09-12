@@ -86,7 +86,7 @@
 }
 
 .title {
-	padding: 2px 0px 0px 10px;
+	padding: 1px 0px 0px 10px;
 }
 
 #radioBtns {
@@ -96,5 +96,5 @@
 
 .submitBtns {
 	width: 43%;
-    margin: 4px 0px 0px 33px;
+    	margin: -1px 0px 0px 33px;
 }
