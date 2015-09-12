@@ -225,7 +225,7 @@
 
 .submitBtns {
 	width: 52%;
-    margin: 7px 0px 0px -2px;
+        margin: 4px 0px 0px -2px;
 }
 
 #goStep {
@@ -238,7 +238,7 @@
 }
 
 .title {
-	margin: 7px 1px 6px 1px;
+	margin: -3px 1px 6px;
 }
 
 .box {
